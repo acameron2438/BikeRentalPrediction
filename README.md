@@ -53,12 +53,15 @@ January 2017, Green=Prediction, Red=demand
 Part 2: Tables and Charts
 
 Season Table:
+
 ![image](https://user-images.githubusercontent.com/103590679/205515827-1d8722a6-8d1d-43c8-9e1a-a33ed189d4dd.png)
 
 Holiday Table:
+
 ![image](https://user-images.githubusercontent.com/103590679/205515832-712bc3b4-74b7-4dba-b50e-7a516021642b.png)
 
 WorkingDay Table:
+
 ![image](https://user-images.githubusercontent.com/103590679/205515845-0c9ce21e-c936-4a9e-872c-52b7245fc9ff.png)
 
 ![image](https://user-images.githubusercontent.com/103590679/205515856-3dc810e0-c969-4910-8c45-dc3f1709d432.png)
