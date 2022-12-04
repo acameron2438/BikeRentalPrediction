@@ -39,12 +39,15 @@ Given my exploratory analysis and the output from my model I am confident I capt
 ![image](https://user-images.githubusercontent.com/103590679/205515601-f07821a8-313c-4638-8f3a-9ede48d55a3b.png)
 
 ![image](https://user-images.githubusercontent.com/103590679/205515606-5b3d108e-ff7c-462a-a386-8ad2481ab244.png)
+
 High Curves= 2018, Low Curves=2017, Green=Prediction, Red=demand
 
 ![image](https://user-images.githubusercontent.com/103590679/205515619-e5a0342d-c970-40f3-a923-41404622d87e.png)
+
 January 2017, Green=Prediction, Red=demand
 
 ![image](https://user-images.githubusercontent.com/103590679/205515627-885a9671-4c1c-4734-84b4-610df0357c2b.png)
+
 2017-01-01 thru 2017-01-04, Green=Prediction, Red=demand
 
 
