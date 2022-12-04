@@ -50,5 +50,67 @@ January 2017, Green=Prediction, Red=demand
 
 2017-01-01 thru 2017-01-04, Green=Prediction, Red=demand
 
+Part 2: Tables and Charts
+
+Season Table:
+![image](https://user-images.githubusercontent.com/103590679/205515827-1d8722a6-8d1d-43c8-9e1a-a33ed189d4dd.png)
+
+Holiday Table:
+![image](https://user-images.githubusercontent.com/103590679/205515832-712bc3b4-74b7-4dba-b50e-7a516021642b.png)
+
+WorkingDay Table:
+![image](https://user-images.githubusercontent.com/103590679/205515845-0c9ce21e-c936-4a9e-872c-52b7245fc9ff.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515856-3dc810e0-c969-4910-8c45-dc3f1709d432.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515863-e3dd936e-64fd-4204-964e-219b9f811480.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515867-1735c3f8-f35a-4e9b-8299-a65552bc8773.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515870-f24ca4db-106b-4969-b010-ed26fee284d0.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515873-b99afb8d-9981-4496-8e9f-f769041845e9.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515877-af5a8f16-3599-4efc-b61a-e56adca2b05d.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515882-db417fb6-f23b-4bf4-913e-17e61fd72747.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515885-f3dac8a6-8e36-4a63-9b6b-f18feb7a98f8.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515888-1aa7e622-0c52-4c19-b75f-47713b226176.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515891-478066f7-eec2-4a7c-aabb-9e912484c4a6.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515895-6a6bd302-00b6-4e7b-ba1d-a81a859dd555.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515900-8afd2f4f-5ee8-42ca-90ba-b3da1b1397c0.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515908-82a57737-1e38-4496-a092-75bba0860441.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515919-8a777a0b-37a8-43d7-a731-2a89e7440cf6.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515925-458f61f9-ad01-4a3c-b9e9-1ad38e5346f6.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515934-57896852-eca4-43bd-bc43-48e30f569c8b.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515938-187e60d6-4a31-40bd-b251-ed56548875e6.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515941-7f421e29-81e5-4bbe-a678-fcab87e2051f.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515946-be0e06f0-a05a-4fff-a6ad-8274aab96058.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515953-67d0eecf-4d3d-43bf-b6c3-5a87eb99b985.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515963-98c22c38-b76d-49df-be5b-f19e648ccef5.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515969-536c47f6-3c80-48b7-9732-a66e991525ca.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515972-231eb24d-58e8-4e8a-ac4b-939066256c18.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515980-aaa586c6-23b1-49fd-8c83-327f344b76f1.png)
+
+![image](https://user-images.githubusercontent.com/103590679/205515984-176d1623-ef01-45a8-8d6e-bc47db91f3b3.png)
+
+
 
 
