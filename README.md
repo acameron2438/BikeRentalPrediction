@@ -13,6 +13,7 @@ Bike‑share systems face highly variable demand that changes by hour, day, weat
 
 <img width="921" height="378" alt="image" src="https://github.com/user-attachments/assets/637c22fd-65c4-403e-b175-5a2362b104db" />
 
+
 5.	Data Exploration
 
 My first step to build a model explaining the relationship between the independent variables and the dependent variable was to examine each variable individually. After examining each variable I used that information to construct a model describing their effect on the dependent variable. 
@@ -84,7 +85,6 @@ The final model achieved strong predictive performance, with an R² of 0.8567 an
  D. Seasonal cycles with higher usage in warmer months
  E. A clear upward trend from 2017 to 2018
 
-Business Interpretation:  
 A model with this level of accuracy provides meaningful operational value. Hourly demand forecasts enable mobility operators to:
  A. Optimize staffing for maintenance, customer support, and rebalancing
  B. Rebalance bikes proactively, reducing empty or overcrowded stations
