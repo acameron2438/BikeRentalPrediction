@@ -93,7 +93,7 @@ A model with this level of accuracy provides meaningful operational value. Hourl
  E. Reduce operational costs by minimizing unnecessary labor and emergency rebalancing
  F. Improve customer satisfaction through better availability and fewer service disruptions
 
-8. Tables and Charts
+8. Appendix: Tables and Charts
 
 Season Table:
 
